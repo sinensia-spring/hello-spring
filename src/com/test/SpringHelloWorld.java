@@ -5,7 +5,7 @@ public class SpringHelloWorld {
 	private static int counter = 0;
 	
 	public SpringHelloWorld() {
-		System.out.println("Buidling SpringHelloWorld " + (++counter));
+		System.out.println("Building SpringHelloWorld " + (++counter));
 	}
 
 	public String getMessage() {
